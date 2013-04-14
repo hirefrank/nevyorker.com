@@ -1,0 +1,90 @@
+/* ArticleText */
+#articletext p,
+.entry-content p {
+    font-size: 17px;
+}
+
+#articletext p a {
+        text-decoration:underline;
+}
+
+#articlebody .pullout {
+    font-size: 17px;
+    line-height: 1.3em;
+}
+
+
+/* Bio Search Results Feature Set*/
+.searchBio .featureBlurbText dd p {
+    font-size: 17px;
+}
+
+
+/* Item List */
+.list .headers .sub-header,
+.list .intro .text,
+.list-supporting .footer,
+.listA .item-text {
+    font-size: 17px;
+}
+
+.list .intro .content-headline,
+.listA .item .content-headline {
+    font-size: 15px;
+}
+
+.list .headers .display-date,
+.list .headers .byline,
+.list-supporting .photo-credits,
+.list-supporting .footer .legal,
+.listA .item .display-date,
+.listA .item .byline,
+.listA .item .embedded-list {
+    font-size: 10px;
+}
+
+
+/* Photo Contest Gallery */
+.ss_photocontests h2#contests_head {
+    font-size: 10px;
+}
+
+.ss_photocontests.indexA h2#contests_head,
+#contestintro h1{
+    font-size: 28px;
+}
+
+#gallerythumbnails .galleryphotoblurb h3 a,
+#gallerythumbnails .galleryphotoblurb h3 {
+    font-size: 13px;
+}
+
+.photoentry h5,
+#gallerythumbnails .ratereview span.comments,
+.comments strong {
+    font-size:10px;
+}
+
+
+/* Photo Contest Detail */
+.galleryphotoblurb h3,
+.galleryphotoblurb .blurbtext {
+    font-size: 14px;
+}
+
+.photoentry h5,
+#gallerythumbnails .ratereview span.comments,
+.comments strong {
+    font-size: 10px;
+}
+
+
+/* Photo Contest About/Rules */
+.ss_photocontests #articleintro {
+    font-size: 28px;
+    line-height:28px;
+}
+
+.ss_photocontests #articlebody p strong {
+    font-size: 13px;
+}

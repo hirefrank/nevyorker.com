@@ -1,0 +1,97 @@
+body{font:small/1.2 Arial,Helvetica,sans-serif}
+a:link{color:#000;text-decoration:none}
+a:visited{color:#000;text-decoration:none}
+a:hover{color:#000;text-decoration:none}
+a img{border:0}
+.smallcaps{font-size:.8em}
+h4.rubric,h4.rubric a:link,h4.rubric a:visited,h4.rubric a:hover{font:normal 10px/1.2em Arial,sans-serif;color:#cd0021;text-transform:uppercase}
+#topBannerAd,#globalNav,#videobox,#magads,#hdrsubs, #header-subs, .subs,#hdrflipbk,#subsNavCont,#archivewrap,#printad,#loginbx,#footer,#sites,#dropmenus,#mag_list,#terms,#cpyrt,.utils,.utilities,.share-links,#relatedlinks,h5.alt,.socialLinks,#footerlinks,#bottomFeatures,#keywords,#showNav,.feature.dailyCartoon,.cartoon ul,#xrail,#yrail,.control-bar,.alt.numbers,.slideshow-replay {display:none}
+#header{position:relative;background:#fff;border-bottom:none;background:none;display:block !important;padding:12px;padding-left:0px}
+#logo{background:none;display:block !important}
+#logo a{background:none;display:block!important;text-indent:-9999px;text-decoration:none}
+#logo img{display:block !important;border:0px}
+#printoptions{display:none}
+#printbody,.pc{background-color:#fff;margin-top:0;padding:0;font:14px "Times New Roman",Times,serif}
+#printbody p,.pc p{line-height:1.3em;padding-bottom:0}
+#listFooter,#navigation,#browseMenu,dl.itemtext dd.item_itemlist{display:none}
+#intro_hed,#itemlistintroheds,#itemlistintro{padding:0px;margin:0px}
+.feature img{margin-bottom:10px}
+#itemlist{margin-right:24px;margin-bottom:18px;padding-bottom:18px;padding-top:19px}
+#itemlistintro:after{content:".";clear:both;display:block;visibility:hidden;height:0}
+#itemlistintro{padding-bottom:15px;float:left;width:470px}
+#itemlistintro .captionedphoto{float:left;margin-right:26px}
+#items{clear:both}
+#itemlistintroheds{overflow:hidden;float:none !important;float:left}
+#itemlistintro h1,#itemlistintro h2,#itemlistintro h3{margin-bottom:7px;font-weight:normal;font-size:17px}
+#intro_hed{font-size:22px;font-weight:normal}
+#intro_hed{margin-bottom:5px}
+#showHeader dd{margin-left:0px}
+#introbodyintro{font-weight:bold;font-size:13px;margin-bottom:5px;text-transform:uppercase}
+h3#introbodytext{font-size:14px;font-weight:normal}
+.item{width:100%;padding-bottom:0;margin-bottom:0;background:none;clear:both}
+.item .itemtext dd{margin-left:0px}
+.item .captionedphoto{float:left;margin-right:50px;padding-bottom:26px}
+.item .hed{margin-bottom:3px}
+.item .hed,.item .hed a{font:13px "Times New Roman",Times,serif;font-weight:bold;line-height:1.3em;text-transform:uppercase}
+.item .subhed,.item .subhed a{font-size:14px;font-weight:normal;line-height:1.4em;text-decoration:none;margin-bottom:4px}
+#autohed,#autohed a,.abstractOnly.s_reporting #autohed,.abstractOnly.s_reporting #autohed a,.abstractOnly.s_arts #autohed,.abstractOnly.s_arts #autohed a,.abstractOnly.s_humor #autohed,.abstractOnly.s_humor #autohed a,.abstractOnly.s_fiction #autohed,.abstractOnly.s_fiction #autohed a,.abstractOnly.s_talk #autohed,.abstractOnly.s_talk #autohed a,.abstractOnly.s_online #autohed,.abstractOnly.s_online #autohed a,.abstractOnly.s_magazine #autohed,.abstractOnly.s_magazine #autohed a,.abstractOnly.s_contact #autohed,.abstractOnly.s_contact #autohed a{background-position:-1404px 0;width:130px}
+#articleheads h1{line-height:1em;margin:7px 0}
+h4#articleauthor .dd,#articlebody .cartoon,h6#credit{font:normal 10px "Arial";text-transform:uppercase}
+#printbody p.bibliography{font:normal 14px "Times New Roman";padding-bottom:0;}
+#articleheads h4.rubric{font-size:13px;margin-bottom:0; color: #cd0021; font-family:"ny-irvin-1",Times New Roman,serif; text-transform:uppercase;}
+#articleheads h1{text-transform:uppercase;font-weight:normal;font-size:26px;margin-bottom:10px; font-family:"ny-irvin-1",Times New Roman,serif; }
+h2#articleintro{font-size:15px;font-weight:normal;font-style:italic;margin:0 0 7px 0}
+h4#articleauthor{width:345px;margin:0 0 6px 0}
+h4#articleauthor .c{display:block;font-size:13px;font-weight:normal;font-family:"ny-irvin-1",Times New Roman,serif;}
+h4#articleauthor .dd{display:block;color:#9f9f9f;line-height:1em;margin-top:17px; font:10px Arial,Helvetica,sans-serif; text-tranform:uppercase;}
+#articleRail{float:right;margin:12px 0 2px 26px;overflow:hidden;width:275px;}
+#articleRail .captionedphoto img, #articleRail .replaced_ufo {float:left;}
+#articleRail .captionedphoto p.caption {float:left;font-size:15px;font-style:italic;letter-spacing:0;}
+/*#articleRail .captionedphoto p.caption{display:none}*/
+#articlebody p{text-indent:1.5em;margin:0;padding:0;font: 17px "Times New Roman",Times,serif; line-height:25px;}
+#articletext p:first-child{padding-top:10px}
+.C #articletext p:first-child{padding-top:0}
+#articlebody p.descender{text-indent:0;padding-top:10px}
+#articlebody p.descender:first-letter{font-size:3em;line-height:.8em;margin-right:2px;display:block;float:left}
+#articlebody h3{margin-top:10px}
+#articlebody h3+p,#articlebody p.noindent,p.postsubhead{text-indent:0}
+html .ss_poetry #articlebody p{text-indent:0}
+.ss_poetry #articleRail #keywords{display:none}
+#articletext p.bibliography{text-indent:0;font-size:10px;color:#7f7f7f;margin-top:28px;line-height:1.1em}
+#articletext p.archivesNotice{text-indent:0;font-size:14px;color:#7f7f7f;margin-top:28px;line-height:1.1em}
+#articletext p.archivesNotice a:link,#articletext p.archivesNotice a:visited,#articletext p.archivesNotice a:hover{color:#7f7f7f}
+#articlebody .pullout{padding:20px 0;font-size:12px;line-height:1.2em;text-indent:0;width:100%}
+#articlebody .pullout span.line{display:block;text-indent:1.7em}
+#articlebody p span.pullout span.line{display:inline}
+#articlebody span.pullout .two{display:none}
+#articlebody p span.pullout .two{display:inline}
+#articlebody .cartoon{padding:5px 0;float:left;margin-right:10px;text-align:left}
+#articlebody .cartoon img{margin:5px auto 5px auto;clear:left}
+h6#credit{color:#9f9f9f}
+#articleBottom{margin-left:-26px;padding:0 26px}
+#articleBottom{border-bottom:1px solid #ccc;clear:both;margin:14px 0 5px 0}
+.vevent .summary,.vevent .label,.vevent .wvname,.vevent .pipe{display:none}
+.vevent .v,.vevent .date{text-transform:uppercase;font-weight:bold;font-size:13px}
+.hreview h3,.hreview .label,.hreview .wvname,.hreview .pipe,.hreview .rb,.hreview .ro{display:none}
+.hreview .description{margin-bottom:10px}
+.hreview .adr{padding-top:8px}
+.wv,.hreview .eu,.vevent .eu{font:10px Arial,sans-serif;text-transform:uppercase;margin-top:13px}
+.vevent .eu,.hreview .cost{margin:15px 0 10px}
+.dingbat{font-family:"Courier New",Symbol}
+.paginationContext{font:normal 14px/1.2em "Times New Roman",Times,serif}
+.subhead{margin-left:-1.5em;font:bold 16px/1.2 "Times New Roman",Times,serif}
+#articlebody p:first-child .subhead,p.noindent .subhead{margin-left:0}
+/* ARTS/EVETNS/ */ .s_arts.ss_events #articletext p{text-indent:0}
+ /* */   #showFooter dd{padding-left:0;margin-left:0}
+ /* */ #thumbnails{display:none}
+.pagination{float:right;text-align:center;font:10px/1.2em Arial;text-transform:uppercase;white-space:nowrap;margin-top:10px}
+.paginationFirst,.paginationFirst_off,.paginationPrevious_off,.paginationLast{display:none}
+span.paginationPrevious,span.paginationNext{display:inline}
+a.paginationPrevious,a.paginationNext{text-decoration:none}
+span.paginationPrevious{left:-25px;background:url(i/foot/sepr.gif) top right no-repeat;padding-right:5px}
+span.paginationNext{right:0;background:url(i/foot/sepr.gif) top left no-repeat;padding-left:5px}
+.pageField a,.pageField a:hover{text-decoration:none}
+.pageField input{width:20px;text-align:center;height:10px;font-size:10px}
+body.abstractOnly #articleheads h1, body.abstractOnly #articleheads h4, body.abstractOnly #articleintro, body.abstractOnly #articleRail .captionedphoto {display:none}
+body.abstractOnly #printbody p.bibliography {color:#000;text-transform:none;font-family:"Times New Roman",Georgia,Times,serif;font-size:12px;padding:0}
+body.abstractOnly span.bibliography.mag {font-style:italic}

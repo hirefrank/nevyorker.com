@@ -1298,25 +1298,7 @@ return contestname;
 
 <div id="loginbx">
   <div id="login">
-    <script type="text/javascript">
-      //<!--
-      var splitreg = "";
-      if (window.location.pathname.match(/\/photocontests/) != null){
-      splitreg="/photocontests/"+contestname();
-    }
-    if (isLoggedIn()) {
-
-    document.write('<span id="ui"class="welcome">Welcome <span id="opts"><span>'+ username(23) + '</span> &#124; <a href="/user'+ splitreg +'/logout" class="first">Logout<\/a> &#124; <a href="/magazine'+ splitreg +'/registration?intcid=registration_help">Help<\/a> &#124; <a href="/user'+ splitreg +'/update">Profile<\/a><\/span><\/span>');
-
-  } else {
-  if(window.location.pathname.match(/\/magazine\/registration/) == null){
-  document.write('<span id="ui" class="welcome">Welcome <span id="opts"><a href="/user'+ splitreg +'/login" class="first">Sign in<\/a> &#124; <a href="/magazine'+ splitreg +'/registration?intcid=registration_help">Help<\/a> &#124; <a href="/user'+ splitreg +'/registration">Register<\/a><\/span><\/span>');
-} else {
-document.write('<span id="ui" class="welcome">Welcome <span id="opts"><a href="/user'+ splitreg +'/login" class="first">Sign in<\/a> &#124; <a href="/user'+ splitreg +'/registration">Register<\/a><\/span><\/span>');
-}
-}
-//-->
-</script><span id="ui" class="welcome">Welcome <span id="opts"><a href="http://www.newyorker.com/user/login" class="first" onclick="s_objectID=&quot;http://www.newyorker.com/user/login_1&quot;;return this.s_oc?this.s_oc(e):true">Sign in</a> | <a href="http://www.newyorker.com/magazine/registration?intcid=registration_help" onclick="s_objectID=&quot;http://www.newyorker.com/magazine/registration?intcid=registration_help_1&quot;;return this.s_oc?this.s_oc(e):true">Help</a> | <a href="http://www.newyorker.com/user/registration" onclick="s_objectID=&quot;http://www.newyorker.com/user/registration_1&quot;;return this.s_oc?this.s_oc(e):true">Register</a></span></span>
+    <span id="ui" class="welcome">Welcome <span id="opts"><a href="http://www.newyorker.com/user/login" class="first" onclick="s_objectID=&quot;http://www.newyorker.com/user/login_1&quot;;return this.s_oc?this.s_oc(e):true">Sign in</a> | <a href="http://www.newyorker.com/magazine/registration?intcid=registration_help" onclick="s_objectID=&quot;http://www.newyorker.com/magazine/registration?intcid=registration_help_1&quot;;return this.s_oc?this.s_oc(e):true">Help</a> | <a href="http://www.newyorker.com/user/registration" onclick="s_objectID=&quot;http://www.newyorker.com/user/registration_1&quot;;return this.s_oc?this.s_oc(e):true">Register</a></span></span>
 </div>
 </div>
 
